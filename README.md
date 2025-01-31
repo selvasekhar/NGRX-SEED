@@ -1,3 +1,12 @@
+
+    "@ngrx/effects": "^14.3.3",
+    "@ngrx/entity": "^14.3.3",
+    "@ngrx/store": "^14.3.3",
+    "@ngrx/store-devtools": "^14.3.3",
+
+Angular Version 14
+
+
 # NewNGRX
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
